@@ -10,3 +10,6 @@ This repository contains resources and files related to the Google Advanced Data
 - Create data visualizations and apply statistical methods to investigate data
 - Build regression and machine learning models to analyze and interpret data
 - Communicate insights from data analysis to stakeholders
+
+## Acknowledgments
+Thanks to **Coursera** for providing the resources and a comprehensive learning experience in data analytics.
